@@ -1,0 +1,1 @@
+java -jar och-mis-web-api.jar
